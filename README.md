@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AUTONOMOUS-PCC-Inc/.github/main/mirrors/assets/teleop-banner.svg?v=2" alt="donkeycar 웹 컨트롤러 패치 — 키를 누르고 있는 동안만 달리고, 떼면 스로틀이 0으로 감쇠하며 조향이 가운데로 돌아온다" width="100%">
+<img src="https://raw.githubusercontent.com/AUTONOMOUS-PCC-Inc/.github/main/mirrors/assets/teleop-banner.svg" alt="donkeycar 웹 컨트롤러 패치 — 키를 누르고 있는 동안만 달리고, 떼면 스로틀이 0으로 감쇠하며 조향이 가운데로 돌아온다" width="100%">
 
 ### 키를 누르고 있는 동안만 달린다.
 
